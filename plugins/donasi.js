@@ -9,8 +9,8 @@ let handler = async (m) => {
     let user = global.db.data.users[who]
 let tqto = `
 ┌〔 𝘿𝙤𝙣𝙖𝙨𝙞 • 𝙀𝙢𝙤𝙣𝙚𝙮 
-├ _DANA_ : *0882-7926-8363*
-├ _SAWERIA_ : *https://saweria.co/raraharsita2*
+├ _DANA_ : *0857-5966-2798*
+├ _PULSA_ : *0857-5966-2798*
 ├ *SELAIN DANA VIA QR AJA ATAU SAWERIA*
 └────`
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -22,7 +22,7 @@ let tqto = `
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: '𝙶𝙴𝚃 𝙱𝙾𝚃',
+               displayText: 'LARAS BOTZ',
                url: 'https://youtu.be/Sgb5BVOW66Y'
              }
 
