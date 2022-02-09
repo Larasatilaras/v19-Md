@@ -37,17 +37,17 @@ bearkey = 'Apikey'
 ApiiKey = 'https://youtu.be/Sgb5BVOW66Y'
 
 namabot = 'LarasXBotz'
-namalu = 'King Of Bear'
-footer = '\n©King Of Bear'
+namalu = 'ItsmeLaras'
+footer = '\n©LarasBotz'
 kasihcaption = `Nih Sayang`
 
 // Sticker WM
 global.stiker_wait = '_*Tunggu Sebentar...*_'
 global.packname = 'LarasBotz Multi device'
-global.author = 'King Of Bear'
+global.author = 'ItsmeLaras'
 global.email = 'drakipul1016@gmail.com'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wm = '©King Of Bear Bot-Md'
+global.wm = '©ItsmeLarasXtzy'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 
 global.wait = '_*Tunggu Sebentar Sedang Di Proses...*_'
